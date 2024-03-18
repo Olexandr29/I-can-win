@@ -2,3 +2,6 @@ Here will be my text
 ok, I like rym
 this is third line
 and fourth line also can be super
+it can be conflict
+because on the github there are not pulled lines
+and I added additional three using echo command
